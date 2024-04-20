@@ -1,0 +1,13 @@
+here are some examples of valid inputs for each text field:
+
+Model: any string of text, such as "iPhone" or "Samsung Galaxy S21"
+Price: a decimal number, such as "1000.99" or "599.00"
+Weight: an integer, such as "150" or "200"
+Size: a string in the format "width x height x depth", such as "71mm x 137mm x 9mm"
+Initial credit: an integer, such as "300" or "120"
+Initial available memory: an integer, such as "8000" or "16000"
+Phone number: a string in the format "XXX-XXX-XXXX" or "(XXX) XXX-XXXX", such as "123-456-7890" or "(555) 123-4567"
+Duration: an integer, such as "10" or "60"
+Download size: an integer, such as "50" or "100"
+Display number: an integer within the range of the ArrayList index, such as "0" or "4" (assuming there are at least 5 Gadget objects in the ArrayList)
+Note that the format of the phone number and display number inputs may vary depending on the specific requirements of the program.
